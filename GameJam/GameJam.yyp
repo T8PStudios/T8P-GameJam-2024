@@ -8,7 +8,7 @@
     "children":[],
     "name":"Default",
   },
-  "defaultScriptType":0,
+  "defaultScriptType":1,
   "Folders":[
     {"$GMFolder":"","%Name":"Animation Curves","folderPath":"folders/Animation Curves.yy","name":"Animation Curves","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Extensions","folderPath":"folders/Extensions.yy","name":"Extensions","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -34,8 +34,14 @@
   },
   "name":"GameJam",
   "resources":[
+    {"id":{"name":"fnt_menu","path":"fonts/fnt_menu/fnt_menu.yy",},},
+    {"id":{"name":"obj_button_exit","path":"objects/obj_button_exit/obj_button_exit.yy",},},
+    {"id":{"name":"obj_button_help","path":"objects/obj_button_help/obj_button_help.yy",},},
+    {"id":{"name":"obj_button_master","path":"objects/obj_button_master/obj_button_master.yy",},},
+    {"id":{"name":"obj_button_play","path":"objects/obj_button_play/obj_button_play.yy",},},
     {"id":{"name":"rm_title_menu","path":"rooms/rm_title_menu/rm_title_menu.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"spr_button","path":"sprites/spr_button/spr_button.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
